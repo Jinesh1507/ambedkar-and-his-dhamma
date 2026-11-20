@@ -1,0 +1,1606 @@
+{
+  "title": "Ambedkar and His Dhamma",
+  "topics": [
+    {
+      "id": "origins",
+      "name": "The ancestry theory",
+      "subtitle": "What establishes a Buddhist past—and what does not?",
+      "summary": "The most direct criticism concerns proof. Ambedkar’s proposed genealogy is inferential, and its evidentiary gap is acknowledged in his own text."
+    },
+    {
+      "id": "doctrine",
+      "name": "Rewriting doctrine",
+      "subtitle": "Received teachings and Ambedkar’s reconstruction",
+      "summary": "Compare the actual claims with canonical passages. A departure can be demonstrated without claiming that every Buddhist tradition is identical."
+    },
+    {
+      "id": "essay",
+      "name": "The 1950 essay",
+      "subtitle": "“Buddha and Future of His Religion”",
+      "summary": "Six focused tests of its assertions about scripture, miracles, persuasion, monastic history and equality."
+    },
+    {
+      "id": "conversion",
+      "name": "Conversion & strategy",
+      "subtitle": "Political purpose, organization and religious conviction",
+      "summary": "The political dimension is explicit. An exclusively political motive is a further claim that the same sources do not establish."
+    },
+    {
+      "id": "opposition",
+      "name": "Buddhist opposition",
+      "subtitle": "Contemporary criticism and its reach",
+      "summary": "Strong reviews attacked the reconstruction. Their publication, authorship and institutional status need to be distinguished."
+    },
+    {
+      "id": "boundaries",
+      "name": "The fuller record",
+      "subtitle": "What a strong critical argument should retain",
+      "summary": "Context that prevents sound criticisms from becoming claims of universal rejection, a secret godhood project or proved fraud."
+    }
+  ],
+  "sources": {
+    "U": {
+      "title": "The Untouchables: Who Were They and Why They Became Untouchables?",
+      "author": "B. R. Ambedkar",
+      "date": "1948",
+      "edition": "BAWS, vol. 7, Government of Maharashtra / Dr. Ambedkar Foundation",
+      "type": "Primary writing",
+      "url": "https://bac.org.in/download/volumes/english/Volume_07.pdf",
+      "official": "https://www.mea.gov.in/Images/attach/amb/Volume_07.pdf",
+      "note": "Government-edition facsimile. Printed pagination is used. The official endpoint may refuse automated access."
+    },
+    "JHA": {
+      "title": "Social Stratification in Ancient India: Some Reflections",
+      "author": "Vivekanand Jha",
+      "date": "1991",
+      "edition": "Social Scientist 19(3/4), pp. 19–40",
+      "type": "Scholarly article",
+      "url": "https://attachments.kaanu.org/files/India%20ancient%20social%20stratifications%201991%20Jha.pdf",
+      "note": "Original journal scan; distinguish this historian from D. N. Jha."
+    },
+    "JAI": {
+      "title": "Some Recent Theories of the Origin of Untouchability: A Historiographical Assessment",
+      "author": "Suvira Jaiswal",
+      "date": "1978",
+      "edition": "Proceedings of the Indian History Congress 39(I), pp. 218–229",
+      "type": "Scholarly article",
+      "url": "https://www.jstor.org/stable/44139355",
+      "mirror": "https://www.scribd.com/document/939615401/Jaiswal-Recenttheoriesorigin-1978",
+      "note": "Journal record with a separate readable reproduction. Access to the publication may require a library account."
+    },
+    "INS": {
+      "title": "Sanchi rail inscription of the time of Candragupta II",
+      "author": "Digital edition by Dániel Balogh, DHARMA / SIDDHAM",
+      "date": "Gupta year 93 · 412–413 CE",
+      "edition": "DHARMA_INSSiddham00012, Sanskrit lines 10–11",
+      "type": "Inscription",
+      "url": "https://dharmalekha.info/texts/INSSiddham00012",
+      "note": "Buddhist endowment with a protective imprecation; its genre matters when assessing a claim about criminal legislation."
+    },
+    "FAX": {
+      "title": "A Record of Buddhistic Kingdoms",
+      "author": "Faxian; translated by James Legge",
+      "date": "Travel account c. fifth century; translation 1886",
+      "edition": "Chapter XVI, Middle Kingdom",
+      "type": "Primary historical text",
+      "url": "https://www.gutenberg.org/cache/epub/2124/pg2124-images.html",
+      "note": "A later translation of an ancient travel account; neither a census nor an ancestry register."
+    },
+    "BHD": {
+      "title": "The Buddha and His Dhamma",
+      "author": "B. R. Ambedkar",
+      "date": "1957 · published posthumously",
+      "edition": "BAWS, vol. 11; page references below follow this edition unless explicitly marked Oxford",
+      "type": "Primary writing",
+      "url": "https://www.marxists.org/archive/ambedkar/writings-and-speeches/Volume_11.pdf",
+      "official": "https://www.mea.gov.in/Images/CPV/Volume11.pdf",
+      "mirror": "https://franpritchett.com/00ambedkar/ambedkar_buddha/",
+      "note": "A readable government-edition mirror and a scholarly transcription. baws.in image indices are not printed page numbers. The author’s Introduction is distinct from later editorial introductions."
+    },
+    "OUP": {
+      "title": "The Buddha and His Dhamma: A Critical Edition",
+      "author": "Edited by Aakash Singh Rathore and Ajay Verma",
+      "date": "2011",
+      "edition": "Oxford University Press; editors’ introduction and annotations",
+      "type": "Scholarly edition",
+      "url": "https://doi.org/10.1093/acprof:oso/9780198068679.001.0001",
+      "mirror": "https://dokumen.pub/the-buddha-and-his-dhamma-a-critical-edition-0198068670-9780198068679.html",
+      "note": "Editorial arguments are attributed to the editors, not to Ambedkar. Oxford pagination differs from BAWS."
+    },
+    "SN": {
+      "title": "Dhammacakkappavattana Sutta",
+      "author": "Saṃyutta Nikāya 56.11; translated by Thanissaro Bhikkhu",
+      "date": "Received Pāli canon",
+      "edition": "PTS S V 420; the First Sermon",
+      "type": "Canonical comparator",
+      "url": "https://accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html",
+      "note": "The citation establishes the received text, not a verbatim contemporary transcript of the historical Buddha."
+    },
+    "MN101": {
+      "title": "Devadaha Sutta",
+      "author": "Majjhima Nikāya 101; translated by Thanissaro Bhikkhu",
+      "date": "Received Pāli canon",
+      "edition": "PTS M II 214 ff.",
+      "type": "Canonical comparator",
+      "url": "https://accesstoinsight.org/tipitaka/mn/mn.101.than.html",
+      "note": "Distinguishes rejection of karmic determinism from rejection of every effect of past action."
+    },
+    "AN663": {
+      "title": "Nibbedhika Sutta",
+      "author": "Aṅguttara Nikāya 6.63; translated by Thanissaro Bhikkhu",
+      "date": "Received Pāli canon",
+      "edition": "PTS A III 410 ff.; section on karma and its results",
+      "type": "Canonical comparator",
+      "url": "https://accesstoinsight.org/tipitaka/an/an06/an06.063.than.html",
+      "note": "An unpaginated online translation: canonical numbering, rather than an invented web page number, is supplied."
+    },
+    "MN26": {
+      "title": "Ariyapariyesana Sutta: The Noble Search",
+      "author": "Majjhima Nikāya 26; translated by Thanissaro Bhikkhu",
+      "date": "Received Pāli canon",
+      "edition": "PTS M I 160 ff.",
+      "type": "Canonical comparator",
+      "url": "https://accesstoinsight.org/tipitaka/mn/mn.026.than.html",
+      "note": "Explains the search in terms of freedom from birth, ageing and death."
+    },
+    "AN839": {
+      "title": "Abhisanda Sutta: Rewards",
+      "author": "Aṅguttara Nikāya 8.39; translated by Thanissaro Bhikkhu",
+      "date": "Received Pāli canon",
+      "edition": "PTS A IV 245 ff.; first great gift",
+      "type": "Canonical comparator",
+      "url": "https://accesstoinsight.org/tipitaka/an/an08/an08.039.than.html",
+      "note": "The precept against taking life is relevant to, but not an exhaustive account of, all Buddhist ethical debates."
+    },
+    "JATAKA": {
+      "title": "Kuṇāla Jātaka, no. 536",
+      "author": "The Jātaka; translated by H. T. Francis",
+      "date": "Received commentarial narrative; English volume 1905",
+      "edition": "English vol. V, p. 219 ff., introductory narrative",
+      "type": "Traditional narrative",
+      "url": "https://ancient-buddhist-texts.net/English-Texts/Jataka/536.htm",
+      "mirror": "https://upload.wikimedia.org/wikipedia/commons/1/18/The_J%C4%81taka%2C_or%2C_Stories_of_the_Buddha%27s_former_births_%28IA_cu31924072231545%29.pdf",
+      "note": "The Rohiṇī dispute concerns the already awakened Buddha in this narrative. Traditional literature is not automatically contemporary historical evidence."
+    },
+    "RAH": {
+      "title": "What the Buddha Taught",
+      "author": "Walpola Rahula",
+      "date": "First published 1959; linked revised edition",
+      "edition": "Grove Press; pp. 16–28, 32–34 and 80–88",
+      "type": "Contemporary doctrinal comparison",
+      "url": "https://buddho.org/wp-content/uploads/Rahula_What-the-Buddha-Taught.pdf",
+      "note": "A traditional contemporary exposition, not a verified personal attack on Ambedkar."
+    },
+    "FUT": {
+      "title": "Buddha and Future of His Religion",
+      "author": "B. R. Ambedkar",
+      "date": "1950",
+      "edition": "BAWS, vol. 17, part II, printed pp. 97–108; originally The Maha Bodhi",
+      "type": "Primary essay",
+      "url": "https://www.surajyengde.com/wp-content/uploads/2023/07/BUDDHA-AND-FUTURE-OF-HIS-RELIGION.pdf",
+      "official": "https://www.mea.gov.in/Images/attach/amb/Volume_17_02.pdf",
+      "note": "Complete 12-page reproduction. PDF page 1 = printed p. 97. Short excerpts below are exact; surrounding explanations are paraphrases."
+    },
+    "DN16": {
+      "title": "Mahāparinibbāna Sutta",
+      "author": "Dīgha Nikāya 16; translated by Sister Vajira and Francis Story",
+      "date": "Received Pāli canon",
+      "edition": "IV.7–11 (great references); VI.3 (lesser and minor rules)",
+      "type": "Canonical comparator",
+      "url": "https://accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html",
+      "note": "Permission concerning minor disciplinary rules should be distinguished from a licence to discard any doctrine."
+    },
+    "MN12": {
+      "title": "Mahāsīhanāda Sutta: The Greater Discourse on the Lion’s Roar",
+      "author": "Majjhima Nikāya 12; translated by Ñāṇamoli and Bhikkhu Bodhi",
+      "date": "Received Pāli canon",
+      "edition": "§§6–8 and 17–18",
+      "type": "Canonical comparator",
+      "url": "https://accesstoinsight.org/tipitaka/mn/mn.012.ntbb.html",
+      "note": "A scriptural account of supernatural capacities is evidence of traditional representation, not proof that miracles occurred."
+    },
+    "ALT": {
+      "title": "Education in Ancient India",
+      "author": "A. S. Altekar",
+      "date": "Historical monograph; linked digitised edition",
+      "edition": "Printed p. 106, discussion of Taxila",
+      "type": "Scholarly book",
+      "url": "https://thedanceofsiva.com/wp-content/uploads/2023/03/Education-In-Ancient-India.pdf",
+      "note": "Taxila’s network of independent teachers differs from an organized university. Pagination varies between editions."
+    },
+    "UNESCO": {
+      "title": "Taxila",
+      "author": "UNESCO World Heritage Centre",
+      "date": "World Heritage property 139",
+      "edition": "Description and outstanding universal value",
+      "type": "Archaeological reference",
+      "url": "https://whc.unesco.org/en/list/139/",
+      "note": "Confirms Buddhist learning and monasteries; prevents the opposite overstatement that Taxila was never Buddhist."
+    },
+    "GOT": {
+      "title": "Gotamī Sutta",
+      "author": "Aṅguttara Nikāya 8.51, translated and studied by Ānandajoti Bhikkhu",
+      "date": "Received ordination narrative",
+      "edition": "Women’s attainment and the eight weighty rules",
+      "type": "Canonical comparator",
+      "url": "https://ancient-buddhist-texts.net/English-Texts/Gotami/01-Gotami.htm",
+      "note": "Distinguish spiritual capacity from institutional rank. The historicity of restrictive narrative elements is debated."
+    },
+    "ANAL": {
+      "title": "Mahāpajāpatī’s Going Forth in the Madhyama-āgama",
+      "author": "Bhikkhu Anālayo",
+      "date": "2011",
+      "edition": "Journal of Buddhist Ethics 18, pp. 268–317",
+      "type": "Scholarly textual study",
+      "url": "https://www.bhikkhuni.net/wp-content/uploads/2013/06/anaalayo-mahaprajapati.pdf",
+      "note": "Comparative textual study cautions against treating all received ordination details as historically settled."
+    },
+    "SAL": {
+      "title": "What Way Emancipation? / What Path to Salvation?",
+      "author": "B. R. Ambedkar",
+      "date": "31 May 1936",
+      "edition": "BAWS 17, part III, printed p. 144; translated Mahar conference speech",
+      "type": "Primary speech",
+      "url": "https://baws.in/books/baws/EN/Volume_17_03/pdf/173",
+      "official": "https://www.mea.gov.in/Images/CPV/Volume17_Part_III.pdf#page=173",
+      "mirror": "https://franpritchett.com/00ambedkar/txt_ambedkar_salvation.html",
+      "note": "A conversion argument before the final public choice of Buddhism. The English wording is a published translation."
+    },
+    "BLUE": {
+      "title": "Buddhist Movement in India: A Blue Print",
+      "author": "B. R. Ambedkar",
+      "date": "4 December 1954",
+      "edition": "BAWS 17, part III, printed pp. 506–507 ff.",
+      "type": "Primary programme",
+      "url": "https://baws.in/books/baws/EN/Volume_17_03/pdf/536",
+      "official": "https://www.mea.gov.in/Images/CPV/Volume17_Part_III.pdf",
+      "note": "Religious organization and outreach programme; its strategic character does not independently establish unbelief."
+    },
+    "AWAY": {
+      "title": "Away from the Hindus",
+      "author": "B. R. Ambedkar",
+      "date": "Collected writing",
+      "edition": "BAWS, vol. 5, printed pp. 403–406",
+      "type": "Primary argument",
+      "url": "https://www.marxists.org/archive/ambedkar/writings-and-speeches/Volume_05.pdf#page=427",
+      "note": "Distinguishes direct political inducement from incidental political advantage. It is evidence that he addressed the objection."
+    },
+    "STROUD": {
+      "title": "Pragmatism, Persuasion, and Force in Bhimrao Ambedkar’s Reconstruction of Buddhism",
+      "author": "Scott R. Stroud",
+      "date": "2017",
+      "edition": "The Journal of Religion 97(2), DOI 10.1086/690466",
+      "type": "Scholarly article",
+      "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/690466",
+      "note": "Analyzes philosophical reconstruction and political action. An interpretive study, not evidence of a secret motive."
+    },
+    "LIGHT": {
+      "title": "The Tragedy of It",
+      "author": "Anonymous reviewer",
+      "date": "January 1959",
+      "edition": "The Light of the Dhamma 6(1), original pp. 50–52",
+      "type": "Contemporary hostile review",
+      "url": "https://host.pariyatti.org/treasures/The_Light_of_the_Dhamma_Vol-06-No-01-1959-01.pdf",
+      "note": "Complete retyped archival issue. Search its review title: pagination in this electronic reconstruction differs from the original. Published by the Union Buddha Sasana Council, Rangoon; unsigned review, not a demonstrated collective Sangha resolution."
+    },
+    "KEER": {
+      "title": "Dr. Ambedkar: Life and Mission",
+      "author": "Dhananjay Keer",
+      "date": "Third edition, 1971",
+      "edition": "Popular Prakashan, printed pp. 521–522; notes cite December and January 1959 reviews",
+      "type": "Published biography / reproduced criticism",
+      "url": "https://www.scribd.com/document/1070135403/Dr-Ambedkar-Life-and-Mission-Dhananjay-Keer-WeLib-org",
+      "note": "Jivaka’s quotations here are mediated through Keer. The original December 1959 review facsimile was not independently inspected."
+    },
+    "JIV": {
+      "title": "Review of The Buddha and His Dhamma",
+      "author": "Jivaka",
+      "date": "December 1959",
+      "edition": "The Maha Bodhi 67(12), pp. 352–353",
+      "type": "Contemporary review · mediated access",
+      "url": "https://soas-repository.worktribe.com/OutputFile/399212",
+      "note": "Linked scholarly repository item corroborates bibliographic identity. It is not the original review. For reproduced wording see Keer pp. 521–522 and the Oxford editors’ introduction p. xiv."
+    },
+    "SANG": {
+      "title": "Ambedkar and Buddhism",
+      "author": "Sangharakshita",
+      "date": "1986",
+      "edition": "Windhorse Publications; chapters VI–VIII",
+      "type": "Retrospective participant account",
+      "url": "https://studylibid.com/doc/507462/ambedkar-and-buddhism-by-sangharakshita",
+      "note": "Supportive account with reservations. Later explanations must not be passed off as verbatim 1952 testimony."
+    },
+    "OBER": {
+      "title": "Dust on the Throne: The Search for Buddhism in Modern India",
+      "author": "Douglas Ober",
+      "date": "2023",
+      "edition": "Stanford University Press / Navayana, printed pp. 221–224; bibliography entry for Sangharakshita (1952)",
+      "type": "Scholarly archival history",
+      "url": "https://books.google.com/books/about/Dust_on_the_Throne.html?id=ibBVzwEACAAJ",
+      "mirror": "https://dokumen.pub/dust-on-the-throne-the-search-for-buddhism-in-modern-india-1nbsped-1503635031-9781503635036.html",
+      "note": "Warns against turning a hostile journal review into blanket organizational condemnation. Bibliography identifies the 1952 article."
+    },
+    "EDIT": {
+      "title": "On the Editions of Dr B. R. Ambedkar’s The Buddha and His Dhamma",
+      "author": "Chiangmong Khiamniungan",
+      "date": "2023",
+      "edition": "Studies in Indian Politics 11(1), pp. 85–101",
+      "type": "Scholarly textual study",
+      "url": "https://journals.sagepub.com/doi/10.1177/23210230231166190",
+      "mirror": "https://www.researchgate.net/publication/371658389_On_the_Editions_of_Dr_B_R_Ambedkar%27s_The_Buddha_and_His_Dhamma",
+      "note": "Examines original and later references. Tracing a source is distinct from establishing faithful quotation or interpretation."
+    },
+    "CER": {
+      "title": "Conversion ceremony and Valisinha’s eyewitness account",
+      "author": "Contemporary material reproduced in BAWS",
+      "date": "14 October 1956; later government compilation",
+      "edition": "BAWS 17, part III, printed pp. 528–532 and 545–546",
+      "type": "Primary record · reproduced",
+      "url": "https://www.mea.gov.in/Images/CPV/Volume17_Part_III.pdf",
+      "mirror": "https://www.surajyengde.com/wp-content/uploads/2023/07/THE-BUDDHA-DHAMMA-WILL-BE-THE-SAVIOUR-OF-THE-WORLD.pdf",
+      "note": "Chandramani’s participation and Valisinha’s enthusiasm qualify blanket claims of Buddhist rejection. The vows do not install Ambedkar as a fourth refuge."
+    },
+    "SILK": {
+      "title": "Indian Buddhist Attitudes toward Outcastes: Rhetoric around caṇḍālas",
+      "author": "Jonathan A. Silk",
+      "date": "2020",
+      "edition": "Indo-Iranian Journal 63, pp. 128–187; especially pp. 150–151 and 173–175",
+      "type": "Scholarly textual study",
+      "url": "https://openphilology.eu/publications/silk_2020b_candalas.pdf",
+      "note": "Documents discriminatory attitudes alongside egalitarian rhetoric. Does not establish one uniform Buddhist practice."
+    },
+    "CENS": {
+      "title": "Census of India, 1911, vol. I, part I: Report",
+      "author": "E. A. Gait",
+      "date": "1913",
+      "edition": "Printed p. 117, paragraph 155: classification tests and regional differences",
+      "type": "Primary census report",
+      "url": "https://www.jstor.org/stable/saoa.crl.25393778",
+      "mirror": "https://ruralindiaonline.org/media/documents/Census_of_India_1911_Volume_I_Part_I__Report.pdf",
+      "note": "Figures and wording were checked against indexed text of p. 117; the full scan endpoint refused automated opening. Colonial categories are not timeless identities."
+    },
+    "THUR": {
+      "title": "Castes and Tribes of Southern India, vol. II",
+      "author": "Edgar Thurston, assisted by K. Rangachari",
+      "date": "1909",
+      "edition": "Government Press, Madras; Holeya entry, printed pp. 339–346",
+      "type": "Primary colonial ethnography",
+      "url": "https://www.gutenberg.org/files/42992/42992-h/42992-h.htm",
+      "note": "The transcription preserves printed page markers. Colonial descriptions are historical evidence with limitations, not unmediated records of antiquity."
+    },
+    "PLAY": {
+      "title": "The Little Clay Cart / Mṛcchakaṭika",
+      "author": "Śūdraka; translated by Arthur W. Ryder",
+      "date": "English translation 1905",
+      "edition": "Harvard Oriental Series; Acts VII, VIII and X; resolution printed p. 175",
+      "type": "Primary literary text",
+      "url": "https://www.gutenberg.org/cache/epub/21020/pg21020-images.html",
+      "note": "Literary hostility and favourable characterization coexist. The action is not a census of social attitudes."
+    },
+    "MANU": {
+      "title": "The Laws of Manu, chapter X",
+      "author": "Translated by Georg Bühler",
+      "date": "Sacred Books of the East, vol. 25, 1886",
+      "edition": "Verses 51–56",
+      "type": "Primary normative text",
+      "url": "https://sacred-texts.com/book/the-laws-of-manu/chapter-x",
+      "note": "Prescriptions concerning Caṇḍālas and Śvapākas; textual prescriptions do not establish uniform implementation."
+    },
+    "KANE": {
+      "title": "History of Dharmaśāstra, vol. II, part I",
+      "author": "P. V. Kane",
+      "date": "1941",
+      "edition": "Bhandarkar Oriental Research Institute, printed pp. 165–169, especially p. 169",
+      "type": "Scholarly legal history",
+      "url": "https://www.scribd.com/document/140866837/History-of-Dharma-s-029210-Mbp",
+      "note": "Discusses sectarian contact-purification rules. A late digest’s citation requires separate dating before use as evidence of an early social practice."
+    },
+    "UPIN": {
+      "title": "Exile and Return: The Reinvention of Buddhism and Buddhist Sites in Modern India",
+      "author": "Upinder Singh",
+      "date": "2010",
+      "edition": "South Asian Studies 26(2), pp. 193–217; especially p. 196",
+      "type": "Scholarly article",
+      "url": "https://list.indology.info/pipermail/indology/attachments/20180122/e716101b/attachment.pdf",
+      "note": "Modern reinvention and identity are interpretive themes; they do not independently establish intentional deceit."
+    },
+    "BAG": {
+      "title": "Ambedkar’s Historical Method: A Non-Brahmanic Critique of Positivist History",
+      "author": "Umesh Bagade",
+      "date": "2012",
+      "edition": "Ninth Dr. Ambedkar Memorial Lecture, Jawaharlal Nehru University, especially pp. 7–9",
+      "type": "Scholarly methodological defence",
+      "url": "https://www.jnu.ac.in/sites/default/files/9th%20Dr.%20Ambedkar%20Memorial%20Lecture.pdf",
+      "note": "A sympathetic defence of reconstructive inference, included as relevant context rather than direct ancestry evidence."
+    },
+    "DNJHA": {
+      "title": "The Myth of the Holy Cow",
+      "author": "D. N. Jha",
+      "date": "First published 2001; subsequent editions",
+      "edition": "Historical chapters on cattle consumption and changing prohibitions",
+      "type": "Scholarly dietary history",
+      "url": "https://vedkabhed.com/wp-content/uploads/2013/09/The-Myth-of-Holy-Cow-D-N-Jha.pdf",
+      "note": "No particular page is quoted here. Support for changing food practices should not be substituted for evidence of an entire population’s Buddhist ancestry."
+    }
+  },
+  "entries": [
+    {
+      "id": "H01",
+      "topic": "origins",
+      "title": "The decisive admission: no direct ancestry evidence",
+      "grade": "Direct admission",
+      "q": "No evidence is as a matter of fact necessary when the majority of Hindus were Buddhists. We may take it that they were.",
+      "source": "U",
+      "page": "Printed p. 315 · chapter IX",
+      "text": "Immediately before these sentences, Ambedkar acknowledges that no direct evidence establishes the Broken Men’s Buddhist identity. He then treats Buddhism’s supposed wider prevalence as sufficient to assume it.",
+      "reading": "A majority religion does not identify a particular subgroup’s ancestry. This is the strongest objection to presenting the thesis as a demonstrated genealogy.",
+      "limit": "Absence of direct evidence is not itself disproof; the circumstantial case still requires assessment.",
+      "refs": [],
+      "context": [
+        {
+          "source": "U",
+          "locator": "Printed p. 315; surrounding chapter pp. 311–317",
+          "heading": "What comes immediately before and after",
+          "paragraphs": [
+            "After acknowledging the absence of direct evidence, Ambedkar appeals to Buddhism’s supposed prevalence. He then turns to evidence of hostility towards Buddhists.",
+            "The reasoning therefore has two stages: assign a Buddhist identity to the population, then explain exclusion through religious antagonism. Evidence for the second stage does not automatically prove the first. The quoted inference must be assessed alongside the admitted gap, not read as independent corroboration."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H02",
+      "topic": "origins",
+      "title": "Sectarian hostility does not establish hereditary descent",
+      "grade": "Historical inference",
+      "source": "U",
+      "page": "Printed pp. 313–317",
+      "text": "His materials include priestly relations, reciprocal avoidance, purification prescriptions and a Sanskrit drama.",
+      "reading": "These may indicate antagonism. Connecting them to the ancestry of diverse later Scheduled Castes requires an additional evidentiary bridge.",
+      "limit": "A hostile relationship and a continuous population history are different propositions.",
+      "refs": [],
+      "context": [
+        {
+          "source": "U",
+          "locator": "Printed pp. 311–317",
+          "heading": "Separate the questions the evidence must answer",
+          "paragraphs": [
+            "The observations concern relations between communities and priests; the conclusion concerns ancient religious identity.",
+            "A useful test is to ask what observation would distinguish a formerly Buddhist population from another population resisting a particular priesthood. Without that discriminating test, the evidence can fit several histories. The criticism is about explanatory specificity, not a requirement that every historical conclusion have an eyewitness document."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H03",
+      "topic": "origins",
+      "title": "Buddhist attachment alone cannot explain the exclusion",
+      "grade": "Internal limitation",
+      "source": "U",
+      "page": "Printed pp. 319–320",
+      "text": "Ambedkar acknowledges that contempt for Buddhists cannot explain why only Broken Men became untouchable; he adds continued beef-eating.",
+      "reading": "The explanation depends on a combination of causes. Neither generalized anti-Buddhist hostility nor evidence of beef consumption independently proves the entire account.",
+      "limit": "Test the combined causal sequence, rather than substituting a simplified persecution story.",
+      "refs": [],
+      "context": [
+        {
+          "source": "U",
+          "locator": "Printed pp. 319–320",
+          "heading": "Why the second cause matters",
+          "paragraphs": [
+            "The dietary explanation supplements, rather than simply repeats, the religious-antagonism explanation.",
+            "The combined theory must establish that the relevant population retained the relevant diet at the relevant time and that this caused a new hereditary exclusion. Evidence of religious hostility in one period and food practice in another does not by itself connect those events."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H04",
+      "topic": "origins",
+      "title": "A Buddhist inscription is not a criminal statute",
+      "grade": "Historical comparison",
+      "source": "U",
+      "page": "Printed pp. 348–349",
+      "text": "His dating argument invokes a Sanchi inscription concerning cow/Brahmin slaughter and Buddhist grave offences.",
+      "reading": "The inscription is a Buddhist endowment with a protective curse. An imprecation against violating a donation does not, by itself, establish a statutory death penalty for cow-killing.",
+      "limit": "Its invocation of grave offences is real evidence of moral valuation; the objection concerns the legal conclusion drawn from it.",
+      "refs": [
+        [
+          "INS",
+          "Sanskrit lines 10–11; Gupta year 93"
+        ]
+      ],
+      "context": [
+        {
+          "source": "INS",
+          "locator": "Sanskrit lines 1–11; especially lines 10–11",
+          "heading": "Read the inscription as a complete document",
+          "paragraphs": [
+            "The record concerns a gift supporting a Buddhist monastic community, feeding monks and maintaining a lamp. Its closing sanction associates interference with the endowment with grave guilt, including cow/Brahmin slaughter and the Buddhist immediate offences.",
+            "This is a warning protecting a donation. It establishes the donor’s use of grave offences as moral sanctions. It does not specify a court, an enforceable criminal procedure, or an execution for every person who kills a cow. Inferring a general capital statute requires additional legal evidence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H05",
+      "topic": "origins",
+      "title": "Faxian records stigma; he does not supply the genealogy",
+      "grade": "Historical comparison",
+      "source": "FAX",
+      "page": "Chapter XVI · Middle Kingdom",
+      "text": "Faxian describes Caṇḍālas living apart and announcing their approach. The account does not identify them as Buddhists punished for retaining their religion.",
+      "reading": "A record of exclusion cannot automatically establish the religious ancestry or specific cause of exclusion. It also complicates any unqualified image of an entirely egalitarian Buddhist social world.",
+      "limit": "A travel account is selective. It cannot establish uniform practice across India.",
+      "refs": [
+        [
+          "U",
+          "Printed pp. 374–379: chronology and impurity distinction"
+        ]
+      ],
+      "context": [
+        {
+          "source": "FAX",
+          "locator": "Chapter XVI, account of the Middle Kingdom",
+          "heading": "The travel account’s larger picture",
+          "paragraphs": [
+            "Faxian’s account places a segregated population within a landscape that also contains Buddhist institutions and practices. His description of their approach concerns avoiding contact; it does not explain their exclusion through a former Buddhist identity.",
+            "This makes the text useful for examining the presence and form of stigma. It is much less useful for deciding the religion of the population’s ancestors. Distinguish observation of a custom, an explanation of its origin, and evidence for descent: only the first is directly supplied here."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H06",
+      "topic": "origins",
+      "title": "A historian explicitly rejects the beef-origin explanation",
+      "grade": "Scholarly objection",
+      "q": "Beef-eating had nothing to do with the origin of untouchability.",
+      "source": "JHA",
+      "page": "Printed p. 31; note 105, p. 40",
+      "text": "Vivekanand Jha challenges the proposed causal explanation; his note explicitly identifies Ambedkar’s claims as untenable.",
+      "reading": "This is a substantive published scholarly objection, stronger evidence than anonymous internet assertions that the story is fake.",
+      "limit": "Attribute the conclusion to Jha. Scholarship contains debate, and a rejection of this causal account need not reject every chronological observation.",
+      "refs": [
+        [
+          "JAI",
+          "Printed pp. 218, 226 and note 3, p. 228"
+        ]
+      ],
+      "context": [
+        {
+          "source": "JHA",
+          "locator": "Printed pp. 30–31; notes 104–105, pp. 39–40",
+          "heading": "Jha’s objection in its own argumentative setting",
+          "paragraphs": [
+            "Jha distinguishes opposition to Brahmin superiority and caste distinctions within the monastic order from a programme abolishing caste throughout society. After rejecting a beef-origin explanation, he argues that Dharmaśāstra prohibition developed only in the early medieval period.",
+            "He treats purity and pollution within a longer history of material and social relations. Notes 104–105 explicitly criticize Ambedkar’s handling of evidence. These are Jha’s historical judgments, not a statement that all scholarship agrees."
+          ]
+        },
+        {
+          "source": "JAI",
+          "locator": "Printed pp. 218, 226; note 3, p. 228",
+          "heading": "What Jaiswal agrees with—and what she rejects",
+          "paragraphs": [
+            "Jaiswal accepts Jha’s rejection of the Buddhist-persecution and beef explanation, but does not propose an institution unchanged from the earliest Vedic period. At p. 226 she distinguishes the Rigveda’s absence of a population whose contact is taboo from later stages of exclusion, including a phase extending to AD 200.",
+            "Her assessment supports criticism of the particular cause and chronology. It should not be used to claim that every early-Vedic premise in Ambedkar’s account was false."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H07",
+      "topic": "origins",
+      "title": "The census does not equate beef-eating with pollution",
+      "grade": "Historical comparison",
+      "q": "Of the thirteen castes whose touch causes pollution, nine do not eat beef",
+      "source": "CENS",
+      "page": "Printed p. 117 · Central Provinces and Berar",
+      "text": "The same passage reports eight beef-eating castes: four were not considered polluting and two had temple access.",
+      "reading": "These are concrete counterexamples to a universal contemporary beef–pollution equation.",
+      "limit": "Later exceptions do not alone disprove an ancient cause: diets may change while inherited stigma persists. That explanation, however, requires evidence. The figures are regional, not nationwide.",
+      "refs": [],
+      "context": [
+        {
+          "source": "CENS",
+          "locator": "Printed p. 117, classification discussion immediately before paragraph 156",
+          "heading": "Why the census reports these exceptions",
+          "paragraphs": [
+            "Gait is explaining the difficulty of drawing a single boundary between Hindus and other populations. Ten tests concern belief, priests, temples, burial, pollution and beef consumption, and the report stresses regional variation.",
+            "In the Central Provinces and Berar, those tests did not coincide. The subsequent discussion describes different patterns in Punjab and Bengal. The figures therefore provide regional counterexamples to a simple equivalence; they are not a nationwide statistical law or a direct survey of ancient dietary practice."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H08",
+      "topic": "origins",
+      "title": "Beef-abstaining groups remain in the excluded category",
+      "grade": "Historical comparison",
+      "q": "Of these, the first two sections abstain from beef, and consequently consider themselves superior to the Māri section.",
+      "source": "THUR",
+      "page": "Printed pp. 345–346 · Holeya entry",
+      "text": "The account identifies Bākuda and Mēra divisions as abstaining; Bākudas also avoided dead cattle and leather.",
+      "reading": "An explanation of hereditary status needs to accommodate these variations. Collecting cases where beef and exclusion coincide cannot establish a universal causal rule.",
+      "limit": "These observations are much later than the proposed origin and are mediated through colonial ethnography.",
+      "refs": [],
+      "context": [
+        {
+          "source": "THUR",
+          "locator": "Printed pp. 345–346, subdivisions in the Holeya entry",
+          "heading": "The subdivisions change the meaning of the example",
+          "paragraphs": [
+            "The entry distinguishes Bākuda, Mēra and Māri sections rather than one uniform population. Dietary abstention is associated with claims of superiority between subdivisions; avoidance of dead cattle and leather is also recorded for Bākudas.",
+            "The evidentiary issue is not merely whether one group ate beef. The account contains inherited exclusion alongside abstention, as well as internal ranking. Explaining that pattern requires a history of changes in food practice and status, rather than treating present diet as a direct record of ancient identity."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H09",
+      "topic": "origins",
+      "title": "Reciprocal priestly avoidance is not a diagnostic Buddhist marker",
+      "grade": "Historical inference",
+      "source": "THUR",
+      "page": "Printed pp. 339–341 · Mackenzie’s account in Holeya entry",
+      "text": "The ethnography records a complex relationship in which Brahmin entry into the settlement could itself be resisted.",
+      "reading": "A local avoidance custom can have several explanations. It does not uniquely identify a religion practised many centuries earlier.",
+      "limit": "This challenges the specificity of the inference, not the existence of the reported custom or every possible Buddhist connection.",
+      "refs": [],
+      "context": [
+        {
+          "source": "THUR",
+          "locator": "Printed pp. 339–340, account attributed to Captain Mackenzie",
+          "heading": "A reciprocal relationship, not one simple taboo",
+          "paragraphs": [
+            "Brahmins’ avoidance of direct receipt from Holiars appears alongside their belief that passage through the settlement could be lucky. The residents resist entry and regard outsiders entering their houses as unlucky. The passage does not identify Buddhism as the explanation.",
+            "Reciprocal avoidance is a pattern to explain. Calling it a surviving Buddhist practice requires evidence distinguishing that explanation from other local histories."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H10",
+      "topic": "origins",
+      "title": "The drama used for hostility also honours its Buddhist monk",
+      "grade": "Literary comparison",
+      "q": "Let him be appointed spiritual father over all the monasteries in the land.",
+      "source": "PLAY",
+      "page": "Act X, resolution · printed p. 175; compare Acts VII–VIII",
+      "text": "The monk encounters hostility but rescues Vasantasenā and is rewarded with religious authority.",
+      "reading": "Selecting the humiliating scenes while omitting the favourable resolution gives an incomplete picture. A villain’s cruelty cannot establish uniform social hatred, much less hereditary ancestry.",
+      "limit": "The play illuminates a literary world; it cannot establish the religion of all excluded populations.",
+      "refs": [],
+      "context": [
+        {
+          "source": "PLAY",
+          "locator": "Act X, printed p. 175; compare Acts VII–VIII",
+          "heading": "The ending is material to the interpretation",
+          "paragraphs": [
+            "After Vasantasenā survives and the political situation changes, Chārudatta asks what the monk wants. The monk reaffirms his commitment to renunciation; religious authority over the monasteries is then proposed.",
+            "The earlier avoidance and assault scenes are therefore only part of his portrayal. A character can experience hostility from particular people while receiving the drama’s moral approval. Selecting only the hostile scenes loses that distinction. This does not erase sectarian antagonism from the play, but it limits the conclusions that can be drawn about the whole society."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H11",
+      "topic": "origins",
+      "title": "A sharp origin date must account for earlier segregation",
+      "grade": "Chronological challenge",
+      "q": "outside the village",
+      "source": "MANU",
+      "page": "Chapter X, verses 51–56",
+      "text": "The text prescribes separate settlement, restricted association, distinctive utensils and controlled movement for Caṇḍālas and Śvapākas.",
+      "reading": "The substantive question is which features distinguish such hereditary exclusion from later untouchability. A sharp date requires more than changing the label to impurity.",
+      "limit": "Do not equate every early restriction with the complete later institution. A normative prescription also does not prove uniform practice.",
+      "refs": [
+        [
+          "FAX",
+          "Chapter XVI: segregated Caṇḍālas"
+        ],
+        [
+          "JHA",
+          "Printed pp. 29–31: historical development"
+        ]
+      ],
+      "context": [
+        {
+          "source": "MANU",
+          "locator": "Chapter X, verses 51–56",
+          "heading": "The surrounding verses regulate a whole social position",
+          "paragraphs": [
+            "The passage regulates dwelling, dress, utensils, association, marriage, food delivery, night movement and designated occupations. Verse 53 restricts transactions and marriage to the excluded groups’ equals; verses 54–55 connect movement to work and identifying marks.",
+            "The historical question concerns this cluster of restrictions, not one isolated word for impurity. A researcher must explain how it differs from later untouchability and date the relevant stages. The passage remains prescriptive evidence: it does not tell us how consistently the rules were enforced."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H12",
+      "topic": "origins",
+      "title": "Purification rules cover multiple sects, not one ancestry",
+      "grade": "Historical inference",
+      "source": "KANE",
+      "page": "Printed pp. 165–169, especially p. 169",
+      "text": "Kane discusses contact-purification prescriptions concerning Buddhists, Jains and other groups.",
+      "reading": "Sectarian stigma does not uniquely explain one hereditary category. Connecting a rule to the ancestors of later Scheduled Castes needs independent population evidence.",
+      "limit": "Dating each cited prescription matters. A later digest may preserve older material without demonstrating its precise early application.",
+      "refs": [],
+      "context": [
+        {
+          "source": "KANE",
+          "locator": "Printed pp. 165–169, especially p. 169",
+          "heading": "A rule’s target and date are separate evidentiary burdens",
+          "paragraphs": [
+            "The discussed purification prescriptions concern contact with members of several religious categories. Their range matters: a rule that marks more than one sect cannot, without further evidence, uniquely explain the ancestry of one later population.",
+            "A digest’s preservation of an older rule also does not establish its date of composition or breadth of implementation. The argument needs both textual dating and a demonstrated link to the population being explained."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H13",
+      "topic": "origins",
+      "title": "Political usefulness cannot supply the missing corroboration",
+      "grade": "Historical interpretation",
+      "source": "UPIN",
+      "page": "Printed p. 196 · article pp. 193–217",
+      "text": "Singh examines the modern reinvention of the Buddhist past; Bagade defends Ambedkar’s reconstructive method.",
+      "reading": "A dignified ancestry can serve an emancipatory movement while remaining historically unproved. Its usefulness cannot establish its truth or, conversely, prove that its author knowingly lied.",
+      "limit": "This is a comparison of scholarly interpretations, not direct evidence of an ancient genealogy.",
+      "refs": [
+        [
+          "BAG",
+          "Especially pp. 7–9: methodological defence"
+        ]
+      ],
+      "context": [
+        {
+          "source": "UPIN",
+          "locator": "Printed p. 196, within the article’s treatment of modern Buddhist revival",
+          "heading": "Function and truth should be tested separately",
+          "paragraphs": [
+            "Singh places the origin account within a modern reinvention of the Buddhist past. That perspective asks what a recovered or reconstructed past does for a present religious community.",
+            "It is possible to investigate that function without settling the genealogy. A socially effective story may be true, mistaken or uncertain. Its emancipatory usefulness does not determine which."
+          ]
+        },
+        {
+          "source": "BAG",
+          "locator": "Especially printed pp. 7–9",
+          "heading": "The methodological defence deserves a fair statement",
+          "paragraphs": [
+            "Bagade defends reconstructive historical inference rather than limiting history to immediately available direct testimony. The relevant disagreement is therefore about the quality and constraints of inference, not simply whether inference is permissible.",
+            "The useful criticism asks whether the proposed links outperform alternatives and remain proportionate to the evidence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H14",
+      "topic": "origins",
+      "title": "Food history does not validate every link in the theory",
+      "grade": "Causal inference",
+      "source": "DNJHA",
+      "page": "Historical chapters · no passage quoted",
+      "text": "Jha traces cattle consumption and changing prohibitions in Indian history.",
+      "reading": "The account must separately establish population, religion, diet, chronology and mechanism. Evidence for dietary change is not proof of all five links.",
+      "limit": "Rejecting this particular origin theory does not require claiming that cow sanctity and food practices never changed. D. N. Jha and Vivekanand Jha are different historians.",
+      "refs": [
+        [
+          "JHA",
+          "Printed p. 31 and note 105, p. 40"
+        ]
+      ],
+      "context": [
+        {
+          "source": "DNJHA",
+          "locator": "Historical chapters on cattle consumption; no sentence or exact page quoted here",
+          "heading": "Why a correct premise can still support an uncertain conclusion",
+          "paragraphs": [
+            "Dietary history can establish change over time without identifying the ancient religion of every population affected by that change.",
+            "Imagine that evidence establishes earlier cattle consumption and a later prohibition. Those facts leave open who continued the practice, why they did so, when exclusion developed and whether religious antagonism caused it. Those additional links require their own evidence. This is a test of a multi-stage causal explanation, not a rejection of food history."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D01",
+      "topic": "doctrine",
+      "title": "The Four Truths are challenged as hope-denying",
+      "grade": "Textual departure",
+      "q": "For the four Aryan Truths deny hope to man.",
+      "source": "BHD",
+      "page": "Author’s Introduction, second problem · linked BAWS PDF image 14; Oxford 2011 p. xxx",
+      "url": "https://franpritchett.com/00ambedkar/ambedkar_buddha/00_intro.html",
+      "text": "He questions their place in the original teaching.",
+      "reading": "The received First Sermon includes cessation and a path to it. Its structure is remedial, not simply a declaration of unavoidable misery.",
+      "limit": "This is a philosophical and textual objection; it does not end legitimate historical inquiry into oral transmission.",
+      "refs": [
+        [
+          "SN",
+          "SN 56.11 · PTS S V 420"
+        ]
+      ],
+      "context": [
+        {
+          "source": "BHD",
+          "locator": "Author’s Introduction, second problem; linked BAWS PDF image 14; Oxford 2011 p. xxx",
+          "heading": "The objection is part of a sequence of interpretive problems",
+          "paragraphs": [
+            "The Introduction asks whether the Four Truths are original, presents them as pessimistic, then raises questions about non-soul, karma, rebirth and the monk’s purpose."
+          ]
+        },
+        {
+          "source": "SN",
+          "locator": "SN 56.11; PTS S V 420 ff.; paragraph introducing the fourth truth",
+          "heading": "Read the diagnosis together with the remedy",
+          "quote": "And this, monks, is the noble truth of the way of practice leading to the cessation of stress: precisely this Noble Eightfold Path",
+          "paragraphs": [
+            "The discourse addresses the five monks at Isipatana. It rejects sensual indulgence and self-mortification, introduces the middle way, then sets out suffering, its origin in craving, cessation and the path.",
+            "Each truth receives a task: comprehension, abandonment, realization or development. The claim to awakening follows completion of those tasks. The objection to a hope-denying reading is therefore structural: the account includes an attainable remedy. This establishes the received discourse’s structure, not an eyewitness transcript of the first sermon."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D02",
+      "topic": "doctrine",
+      "title": "Dhamma is narrowed to interpersonal righteousness",
+      "grade": "Reinterpretation",
+      "q": "Dhamma is social.",
+      "source": "BHD",
+      "page": "Printed p. 316 · Book IV, part I, §2, ¶¶8–12",
+      "url": "https://www.marxists.org/archive/ambedkar/writings-and-speeches/Volume_11.pdf#page=340",
+      "text": "An isolated person is said not to require it.",
+      "reading": "MN 26 frames the noble search around liberation from birth, ageing and death. This exposes a difference in scope between interpersonal morality and the received spiritual project.",
+      "limit": "Buddhism has social ethics; demonstrating the wider scope does not negate them.",
+      "refs": [
+        [
+          "MN26",
+          "MN 26 · PTS M I 160 ff."
+        ]
+      ],
+      "context": [
+        {
+          "source": "BHD",
+          "locator": "Printed pp. 316–317; Book IV, part I, §2, paragraphs 7–26",
+          "heading": "The definition leads to a political conclusion",
+          "paragraphs": [
+            "The social definition leads to alternatives of anarchy, dictatorship, or Dhamma with a magistrate, and then to an argument about preserving liberty."
+          ]
+        },
+        {
+          "source": "MN26",
+          "locator": "MN 26; PTS M I 160 ff.; distinction between noble and ignoble search",
+          "heading": "The comparison concerns the scope of the goal",
+          "paragraphs": [
+            "The received discourse organizes the search around release from birth, ageing and death. Social relationships are not its sole organizing category.",
+            "The argument is not that interpersonal righteousness is unimportant. It is that an account of Dhamma limited to relations between people needs to explain the tradition’s explicit liberation-oriented content."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D03",
+      "topic": "doctrine",
+      "title": "Rebirth becomes the recycling of matter and energy",
+      "grade": "Doctrinal departure",
+      "q": "regeneration of matter",
+      "source": "BHD",
+      "page": "Printed p. 332 · Book IV, part II, section I, §2",
+      "url": "https://www.marxists.org/archive/ambedkar/writings-and-speeches/Volume_11.pdf#page=356",
+      "text": "Physical continuity becomes his explanation of rebirth.",
+      "reading": "Rahula’s contemporary exposition retains karmic re-existence without an eternal soul. Recycling matter and explaining karmic continuity answer different questions.",
+      "limit": "Do not claim Ambedkar eliminated every reference to rebirth: he recasts its meaning.",
+      "refs": [
+        [
+          "RAH",
+          "Printed pp. 32–34"
+        ]
+      ],
+      "context": [
+        {
+          "source": "BHD",
+          "locator": "Printed pp. 330–333, especially p. 332, paragraphs 35–44",
+          "heading": "The immediate question is what undergoes rebirth",
+          "paragraphs": [
+            "The section invokes physical elements and energy while distinguishing material regeneration from rebirth of a soul."
+          ]
+        },
+        {
+          "source": "RAH",
+          "locator": "Printed pp. 32–34; compare pp. 80–81",
+          "heading": "Energy imagery is not the decisive difference",
+          "paragraphs": [
+            "Rahula first distinguishes intentional action from its results and rejects karma as a deity’s reward or punishment. He explains continuity after death through will, craving and changing physical and mental processes, without an eternal soul.",
+            "He also uses energy language. The pertinent contrast is karmic and volitional re-existence versus merely physical recycling. A comparison based only on the word energy would misrepresent the traditional exposition. On pp. 80–81, he also connects material welfare with conditions favourable to spiritual development; social and spiritual concerns coexist."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D04",
+      "topic": "doctrine",
+      "title": "Past-life karma is attributed to an imported doctrine",
+      "grade": "Interpolation claim",
+      "q": "purely Brahminic doctrine",
+      "source": "BHD",
+      "page": "Printed p. 343 · Book IV, part II, section II, §2, ¶¶15–18",
+      "url": "https://franpritchett.com/00ambedkar/ambedkar_buddha/04_02.html",
+      "text": "He treats karmic effects across lives as inconsistent with non-soul.",
+      "reading": "Rejecting the claim that every present experience is due to past action is not rejecting all consequences of past action. MN 101 attacks the former; AN 6.63 still discusses temporally differentiated karmic results.",
+      "limit": "This passage does not identify a named Brahmin conspirator. Calling it a specific proven conspiracy would add evidence the passage lacks.",
+      "refs": [
+        [
+          "MN101",
+          "MN 101 · PTS M II 214 ff."
+        ],
+        [
+          "AN663",
+          "AN 6.63 · karma and results"
+        ]
+      ],
+      "context": [
+        {
+          "source": "BHD",
+          "locator": "Printed pp. 342–343, especially p. 343, paragraphs 15–18",
+          "heading": "Identify the exact inference under dispute",
+          "paragraphs": [
+            "The passage connects non-soul with rejection of inherited past karma and then alleges an importation into Buddhist teaching."
+          ]
+        },
+        {
+          "source": "MN101",
+          "locator": "MN 101; PTS M II 214 ff.; opening argument and concluding “Three Knowledges”",
+          "heading": "The same discourse retains former-life recollection",
+          "quote": "he directs and inclines it to knowledge of the recollection of past lives.",
+          "paragraphs": [
+            "The opening identifies the Nigaṇṭha position that experience results from past deeds exhausted by painful austerities. The Buddha questions their knowledge and observes that starting or stopping present austerities changes present pain.",
+            "Later the account describes fruitful striving through conduct, restraint, meditation and the jhānas. Its conclusion includes recollection of former lives and beings’ reappearance according to actions. The opening criticism therefore does not remove every form of karmic continuity."
+          ]
+        },
+        {
+          "source": "AN663",
+          "locator": "AN 6.63; PTS A III 410 ff.; subsection [5], karma",
+          "heading": "Intention and wider karmic results occur together",
+          "quote": "Intention, I tell you, is kamma. Intending, one does kamma by way of body, speech, & intellect.",
+          "paragraphs": [
+            "The repeated framework asks about a phenomenon’s nature, cause, diversity, results, cessation and path. The karma section moves from intention to results associated with different realms, and results arising now, later and thereafter.",
+            "Its ethical definition coexists with a wider cosmology. Selecting the definition alone does not justify removing the subsequent results and cessation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D05",
+      "topic": "doctrine",
+      "title": "Nonviolence is qualified by a need–will distinction",
+      "grade": "Ethical reinterpretation",
+      "q": "need to kill",
+      "q2": "will to kill",
+      "source": "BHD",
+      "page": "Printed pp. 346–347 · Book IV, part II, section III, §2",
+      "url": "https://www.marxists.org/archive/ambedkar/writings-and-speeches/Volume_11.pdf#page=370",
+      "text": "He reads Buddhist ethics as permitting necessary killing.",
+      "reading": "AN 8.39 presents abstention from taking life without this exception. Permission to receive meat as alms also does not establish permission intentionally to kill.",
+      "limit": "This supports criticism of the exception; it does not establish an endorsement of arbitrary violence.",
+      "refs": [
+        [
+          "AN839",
+          "AN 8.39 · PTS A IV 245 ff."
+        ]
+      ],
+      "context": [
+        {
+          "source": "BHD",
+          "locator": "Printed pp. 346–347, paragraphs 12–18",
+          "heading": "Necessary killing and a moral principle",
+          "paragraphs": [
+            "The distinction occurs within an argument separating a principle from an inflexible rule."
+          ]
+        },
+        {
+          "source": "AN839",
+          "locator": "AN 8.39; PTS A IV 245 ff.; first of the five great gifts",
+          "heading": "The precept is explained through safety for living beings",
+          "quote": "abandoning the taking of life, abstains from taking life. In doing so, he gives freedom from danger",
+          "paragraphs": [
+            "The discourse counts refuge in Buddha, Dhamma and Sangha, followed by five ethical abstentions, as eight sources of merit. Abstention from taking life gives security to innumerable beings, and the practitioner shares in that freedom from danger and hostility.",
+            "No need-versus-will exception is introduced in this formulation. It is a relevant comparator, although not a comprehensive treatment of war, coercion, intention or every exceptional-act debate in Buddhist history."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D06",
+      "topic": "doctrine",
+      "title": "The Rohiṇī conflict is moved into the renunciation story",
+      "grade": "Narrative reconstruction",
+      "source": "BHD",
+      "page": "Printed pp. 24–29 · Book I, part I, §§14–16; linked BAWS PDF images 48–53",
+      "url": "https://www.marxists.org/archive/ambedkar/writings-and-speeches/Volume_11.pdf#page=48",
+      "text": "The Sakya–Koliya conflict becomes a cause of Siddhartha’s departure.",
+      "reading": "In the Kuṇāla Jātaka’s introduction, the already awakened Buddha mediates the dispute. MN 26 describes renunciation through a spiritual search. Ambedkar’s causal placement differs from these received narratives.",
+      "limit": "The river-conflict motif is not invented from nothing. Neither detailed traditional narratives nor his reconstruction should be called contemporary eyewitness history. The page range is now verified in the linked government-edition mirror.",
+      "refs": [
+        [
+          "JATAKA",
+          "Jātaka 536, introduction · English vol. V, p. 219 ff."
+        ],
+        [
+          "MN26",
+          "MN 26: noble search"
+        ]
+      ],
+      "context": [
+        {
+          "source": "BHD",
+          "locator": "Printed pp. 24–29; Book I, part I, §§14–16; linked PDF images 48–53",
+          "heading": "The episode becomes a causal narrative",
+          "paragraphs": [
+            "The dispute becomes an assembly conflict, proposed punishment and departure through religious wandering."
+          ]
+        },
+        {
+          "source": "MN26",
+          "locator": "MN 26; autobiographical departure passage; PTS M I 160 ff. denotes the discourse’s start",
+          "heading": "An alternative received account of the departure",
+          "quote": "I shaved off my hair & beard, put on the ochre robe and went forth from the home life into homelessness.",
+          "paragraphs": [
+            "After distinguishing noble and ignoble searches, the Buddha describes departure despite parental distress. He then studies under Āḷāra Kālāma and Uddaka Rāmaputta, rejects their attainments as insufficient and continues towards awakening.",
+            "This supplies a spiritual causal framework. Its silence about a river dispute is not proof no dispute ever occurred; it does show that the dispute does not organize this received account."
+          ]
+        },
+        {
+          "source": "JATAKA",
+          "locator": "Kuṇāla Jātaka 536, introductory narrative; English vol. V, p. 219 ff.",
+          "heading": "The traditional river episode is at a different stage",
+          "paragraphs": [
+            "The introductory story places the Buddha’s mediation after awakening. The motif exists in Buddhist literature; the disputed step is its movement into an earlier renunciation narrative."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E01",
+      "topic": "essay",
+      "title": "Permission to “chip and chop” is overextended",
+      "grade": "Textual mismatch",
+      "q": "chip and chop",
+      "source": "FUT",
+      "page": "Printed p. 98 · extract PDF p. 2",
+      "pdf": 2,
+      "text": "He attributes freedom to modify or abandon any teaching to the Mahāparinibbāna Sutta.",
+      "reading": "DN 16 permits abolition of lesser/minor disciplinary rules and requires proposed teachings to be checked against Discourses and Discipline. This does not amount to unrestricted doctrinal rewriting.",
+      "limit": "Critical inquiry is not alien to Buddhism; this criticism concerns the scope of the specific attribution.",
+      "refs": [
+        [
+          "DN16",
+          "IV.7–11 and VI.3"
+        ]
+      ],
+      "context": [
+        {
+          "source": "FUT",
+          "locator": "Printed p. 98; extract PDF image 2",
+          "heading": "The comparison precedes the programme of reform",
+          "paragraphs": [
+            "The claim appears in a comparison of religious founders and their teachings’ revisability, before the essay’s practical programme."
+          ]
+        },
+        {
+          "source": "DN16",
+          "locator": "DN 16, VI.3; compare IV.7–11; these are section locators, not printed page numbers",
+          "heading": "What the final instructions actually permit",
+          "quote": "If it is desired, Ananda, the Sangha may, when I am gone, abolish the lesser and minor rules.",
+          "paragraphs": [
+            "The final instructions identify Dhamma and Discipline as teacher after the Buddha’s death, regulate forms of address, permit abolition of lesser/minor rules and prescribe a response concerning Channa.",
+            "Earlier, the four great references require purported teachings to be compared with Discourses and Discipline. The permission concerns specified rules and communal action inside that framework. It does not itself authorize individual abandonment of any teaching judged unsuitable."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E02",
+      "topic": "essay",
+      "title": "A wholly non-supernatural Buddha conflicts with scripture",
+      "grade": "Textual mismatch",
+      "q": "supernatural powers",
+      "source": "FUT",
+      "page": "Printed p. 97 · extract PDF p. 1",
+      "pdf": 1,
+      "text": "He denies that Buddha claimed supernatural powers or performed miracles to establish them.",
+      "reading": "MN 12 expressly attributes supernormal capacities, including walking on water, to the Buddha. A demythologized Buddha is a reconstruction of the received representation.",
+      "limit": "The canonical claim is not proof that miracles actually happened.",
+      "refs": [
+        [
+          "MN12",
+          "§§6–8 and 17–18"
+        ]
+      ],
+      "context": [
+        {
+          "source": "FUT",
+          "locator": "Printed p. 97; extract PDF image 1",
+          "heading": "A comparison of founders and religious authority",
+          "paragraphs": [
+            "The assertion supports a contrast between the Buddha as a human guide and founders claiming transcendent authority."
+          ]
+        },
+        {
+          "source": "MN12",
+          "locator": "MN 12 §6; PTS M I 69; §§17–18 continue at M I 70–71",
+          "heading": "The supernatural claim answers a rationalist accusation",
+          "quote": "That Blessed One enjoys the various kinds of supernormal power: having been one, he becomes many; having been many, he becomes one",
+          "paragraphs": [
+            "Sunakkhatta alleges that Gotama lacks superhuman attainments and teaches a doctrine produced merely by reasoning. The response, addressed through Sāriputta, describes extraordinary powers, divine hearing and awareness of others’ minds; a later list includes former lives and karmic rebirth.",
+            "These are not merely decorative details: they answer the charge within the text. That creates a clear mismatch with a wholly demythologized representation, without proving that miracles occurred."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E03",
+      "topic": "essay",
+      "title": "The proposed gospel deliberately sought emotional effect",
+      "grade": "Persuasive strategy",
+      "q": "Buddhist Bible",
+      "q2": "an hypnotic effect",
+      "source": "FUT",
+      "page": "Printed pp. 105–106 · extract PDF pp. 9–10",
+      "pdf": 9,
+      "text": "He proposes a selected gospel with an emotionally powerful literary presentation.",
+      "reading": "This is evidence of a deliberately designed religious handbook. It should be assessed as selection and persuasion, rather than mistaken for a neutral translation of one ancient text.",
+      "limit": "Persuasive religious writing is not by itself fraudulent or proof of a purely political purpose.",
+      "refs": [],
+      "context": [
+        {
+          "source": "FUT",
+          "locator": "Printed pp. 105–106; extract PDF images 9–10",
+          "heading": "The literary prescription has a practical purpose",
+          "paragraphs": [
+            "The proposed handbook answers the difficulty of accessing a vast literature and seeks a presentation capable of sustaining faith.",
+            "Accessibility, emotional force and historical accuracy are distinct standards. A compelling narrative may serve a religious community, but its persuasive success cannot establish whether an attributed ancient conversation occurred."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E04",
+      "topic": "essay",
+      "title": "His indictment of contemporary monks is sweeping",
+      "grade": "Documented generalization",
+      "q": "a huge army of idlers",
+      "source": "FUT",
+      "page": "Printed p. 107 · extract PDF p. 11",
+      "pdf": 11,
+      "text": "He condemns contemporary monastic practice and seeks educated, service-oriented monks.",
+      "reading": "The blanket judgment requires evidence about actual monasteries and monks. A programme for reform does not establish that every existing monk was idle.",
+      "limit": "The same page acknowledges the Ramakrishna Mission as a service model, complicating the claim that he recognized no merit outside Buddhism.",
+      "refs": [],
+      "context": [
+        {
+          "source": "FUT",
+          "locator": "Printed p. 107; extract PDF image 11",
+          "heading": "The criticism accompanies an alternative model",
+          "paragraphs": [
+            "The denunciation accompanies proposals for service, education and changes to monastic organization.",
+            "To evaluate the generalization, specify an observable standard: which institutions, in which regions and years, performed which activities? A rhetorical contrast between idleness and service cannot substitute for that institutional history."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E05",
+      "topic": "essay",
+      "title": "Taxila and Nalanda are conflated institutionally",
+      "grade": "Historical overgeneralization",
+      "q": "Nalanda and Taxila",
+      "source": "FUT",
+      "page": "Printed p. 107 · extract PDF p. 11",
+      "pdf": 11,
+      "text": "Both are treated as universities run and staffed by monks.",
+      "reading": "Altekar describes Taxila’s independent teachers rather than one organized university. This weakens the institutional generalization.",
+      "limit": "Taxila did contain Buddhist monasteries and learning. The opposite claim—that it was never Buddhist—would also be inaccurate.",
+      "refs": [
+        [
+          "ALT",
+          "Printed p. 106 in linked edition"
+        ],
+        [
+          "UNESCO",
+          "World Heritage property 139"
+        ]
+      ],
+      "context": [
+        {
+          "source": "ALT",
+          "locator": "Printed p. 106 in the linked edition",
+          "heading": "Institutional form is the issue",
+          "paragraphs": [
+            "Altekar’s discussion treats Taxila as a concentration of independent renowned teachers rather than one centrally organized university. A famous centre of education and a single institution with one governing and staffing body are different descriptions.",
+            "The criticism therefore concerns administrative and institutional specificity, not whether learning occurred there."
+          ]
+        },
+        {
+          "source": "UNESCO",
+          "locator": "Taxila, property 139, description and outstanding universal value",
+          "heading": "The archaeological qualification",
+          "paragraphs": [
+            "The property includes Buddhist monasteries and is recognized as a centre of Buddhist learning. Evidence against one institutional description cannot support the opposite claim that Taxila had no Buddhist educational history."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E06",
+      "topic": "essay",
+      "title": "Spiritual capacity and institutional equality are distinct",
+      "grade": "Selective presentation",
+      "q": "between man and woman",
+      "source": "FUT",
+      "page": "Printed p. 105; compare p. 100",
+      "pdf": 9,
+      "text": "He presents the Buddha’s teaching as equality between women and men.",
+      "reading": "AN 8.51 affirms women’s spiritual attainments while the received narrative also imposes hierarchical rules. One dimension of equality does not establish equality in every institutional respect.",
+      "limit": "Anālayo’s comparative study questions elements of the received ordination narrative. Restrictions should not simply be treated as historically unquestionable.",
+      "refs": [
+        [
+          "GOT",
+          "AN 8.51: attainment and weighty rules"
+        ],
+        [
+          "ANAL",
+          "Journal of Buddhist Ethics 18, pp. 268–317"
+        ]
+      ],
+      "context": [
+        {
+          "source": "GOT",
+          "locator": "AN 8.51; attainment question and the eight weighty rules",
+          "heading": "Capacity and rank coexist in the narrative",
+          "paragraphs": [
+            "The received account affirms women’s capacity for the stages of spiritual attainment while also setting out special hierarchical conditions for admission and monastic relations.",
+            "Equal capacity for liberation does not logically establish equal institutional authority. A broad equality claim needs to specify the dimension being discussed."
+          ]
+        },
+        {
+          "source": "ANAL",
+          "locator": "Journal of Buddhist Ethics 18 (2011), pp. 268–317",
+          "heading": "Why the comparison is not an unquestioned historical verdict",
+          "paragraphs": [
+            "Anālayo compares versions of the ordination story and raises questions about the development of received details. The appropriate conclusion is that the textual record contains both affirmation and restriction, while the historical formation of that record remains open to study."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P01",
+      "topic": "conversion",
+      "title": "Conversion was explicitly linked to political safeguards",
+      "grade": "Direct political rationale",
+      "q": "political safeguards",
+      "source": "SAL",
+      "page": "Printed p. 144 · BAWS 17 III, PDF image 173",
+      "text": "His 1936 speech argues that conversion can strengthen communal distinctness and political claims.",
+      "reading": "This firmly supports a political dimension. It was a plan for changing collective power as well as personal affiliation.",
+      "limit": "The speech predates his final public choice of Buddhism. His argument was not a legally secured guarantee that all benefits would remain.",
+      "refs": [],
+      "context": [
+        {
+          "source": "SAL",
+          "locator": "Printed p. 144; BAWS 17 III PDF image 173",
+          "heading": "The collective argument",
+          "paragraphs": [
+            "The discussion connects conversion to distinct communal standing and political safeguards. On the same page, Ambedkar distinguishes his own motive from the community’s material and spiritual considerations.",
+            "Political advantage is an explicit part of the collective case. It is not necessary to infer that advantage from later consequences. But an explicit advantage is not equivalent to an admission that all other reasons are insincere."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P02",
+      "topic": "conversion",
+      "title": "He expressly denied a purely material explanation",
+      "grade": "Essential qualification",
+      "q": "Nothing but spirituality is at the base of my conversion.",
+      "source": "SAL",
+      "page": "Same speech and same printed p. 144",
+      "text": "He also distinguishes personal conviction from the community’s material and spiritual reasons.",
+      "reading": "The direct political rationale and this assertion must be read together. A critic can examine sincerity, but cannot infer the absence of religious conviction merely from political usefulness.",
+      "limit": "This is his account of his motives, not independent access to his private mental state.",
+      "refs": [],
+      "context": [
+        {
+          "source": "SAL",
+          "locator": "Same speech, printed p. 144",
+          "heading": "What the denial does and does not settle",
+          "paragraphs": [
+            "His assertion of spiritual purpose sits beside, rather than replacing, the political discussion.",
+            "A statement of motive is evidence to consider, not decisive access to a private mental state. Equally, political utility cannot logically disprove conviction. A stronger assessment would distinguish sincerity, doctrinal accuracy and the movement’s effects instead of treating them as one question."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P03",
+      "topic": "conversion",
+      "title": "The Buddhist movement had an organized expansion programme",
+      "grade": "Documented strategy",
+      "source": "BLUE",
+      "page": "Printed pp. 506–507 ff. · Rangoon, 4 December 1954",
+      "text": "The blueprint connects outreach to socially discontented groups with organization and religious propagation.",
+      "reading": "This is strong evidence against describing the project as exclusively private spirituality. It was consciously designed to mobilize and sustain a collective religious movement.",
+      "limit": "Organization and political relevance are compatible with religious belief.",
+      "refs": [
+        [
+          "STROUD",
+          "2017: philosophical reconstruction and political action"
+        ]
+      ],
+      "context": [
+        {
+          "source": "BLUE",
+          "locator": "Printed pp. 506–507 ff.; address of 4 December 1954",
+          "heading": "From individual conversion to an organized movement",
+          "paragraphs": [
+            "The blueprint treats propagation as an organizational problem, including the audience for religious change and the means of sustaining it.",
+            "This supports criticism of an exclusively private description of conversion. It does not make organization a substitute for belief: organized religions routinely combine teaching, institutions and collective interests."
+          ]
+        },
+        {
+          "source": "STROUD",
+          "locator": "The Journal of Religion 97(2), 2017; DOI 10.1086/690466",
+          "heading": "A philosophical interpretation of reconstruction",
+          "paragraphs": [
+            "Stroud examines pragmatism, persuasion and force in Ambedkar’s Buddhist reconstruction. That framing treats political action and religious philosophy as connected objects of analysis. It supplies no independent evidence of a concealed intention to become a god or of an absence of religious conviction."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "P04",
+      "topic": "conversion",
+      "title": "The political-motive objection did receive an answer",
+      "grade": "Necessary distinction",
+      "source": "AWAY",
+      "page": "Printed pp. 403–406 · BAWS vol. 5",
+      "text": "Ambedkar distinguishes a direct inducement to convert from political advantage incidental to religious change.",
+      "reading": "A more defensible challenge asks whether that distinction succeeds. Saying that he never addressed the question overlooks the actual argument.",
+      "limit": "A stated distinction may be debated; recording it does not endorse it.",
+      "refs": [],
+      "context": [
+        {
+          "source": "AWAY",
+          "locator": "BAWS vol. 5, printed pp. 403–406",
+          "heading": "The distinction to evaluate",
+          "paragraphs": [
+            "The argument separates an inducement offered for changing religion from advantages that may follow a change undertaken for other reasons.",
+            "A critic can challenge whether the distinction is sustainable in a particular case. To do that, identify the offered inducement, its timing and whether it was decisive. Merely showing that a religious community later gains political power does not establish the original inducement."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "O01",
+      "topic": "opposition",
+      "title": "The Burmese review attacked text alteration",
+      "grade": "Contemporary opposition",
+      "source": "LIGHT",
+      "page": "Original printed pp. 50–52 · January 1959",
+      "text": "The unsigned review praises Ambedkar’s anti-caste work but objects to missing references, reconstructed scripture, karma and rebirth.",
+      "reading": "This is direct contemporary evidence that a Buddhist publication rejected his exposition while admiring his public achievement.",
+      "limit": "A review associated with a Buddhist council is not automatically a formal resolution by the whole council or Sangha.",
+      "refs": [],
+      "context": [
+        {
+          "source": "LIGHT",
+          "locator": "Original pp. 50–52; electronic reconstruction: search “The Tragedy of It”",
+          "heading": "Admiration and rejection appear in the same review",
+          "paragraphs": [
+            "The reviewer acknowledges Ambedkar’s long study, suitable lay conduct and unselfish political struggle. The rejection concerns orientation towards Nibbāna and alleged alteration of scripture.",
+            "This makes the review stronger evidence of doctrinal opposition than a simple hostile epithet would be. It also prevents using the review to claim that the critic considered him merely selfish or wholly uninformed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "O02",
+      "topic": "opposition",
+      "title": "A reviewer declared politics incompatible with Buddhist thought",
+      "grade": "Contemporary accusation",
+      "q": "No man can be a politician and a Buddhist thinker at once, since the attempt to serve two such different masters must always fail",
+      "source": "LIGHT",
+      "page": "Original printed p. 51 · electronic reconstruction differs",
+      "text": "The reviewer contrasts worldly emancipation with orientation towards Nibbāna.",
+      "reading": "This reveals the religious boundary being asserted. Its categorical exclusion of political thinkers is itself a position requiring defence, rather than a neutral fact.",
+      "limit": "The review’s confidence about textual preservation also rests on traditional assumptions; it is evidence of opposition, not an infallible historical verdict.",
+      "refs": [],
+      "context": [
+        {
+          "source": "LIGHT",
+          "locator": "Original p. 51; statement immediately before the textual-alteration discussion",
+          "heading": "The contested boundary is the purpose of Buddhist thought",
+          "paragraphs": [
+            "Worldly emancipation and orientation towards Nibbāna are contrasted immediately before the review turns to textual alteration.",
+            "The reviewer’s categorical claim is itself debatable. Even a critic of Ambedkar can distinguish the evidence that this boundary was asserted from a demonstration that political involvement necessarily disqualifies Buddhist thought."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "O03",
+      "topic": "opposition",
+      "title": "Jivaka proposed the title “Ambedkar and His Dhamma”",
+      "grade": "Contemporary opposition",
+      "q": "Ambedkar’s Buddhism",
+      "q2": "is based on hatred, the Buddha’s on compassion.",
+      "source": "KEER",
+      "page": "Keer pp. 521–522; underlying Maha Bodhi review pp. 352–353",
+      "text": "Keer reproduces the reviewer’s accusation and proposed retitling. Karma, nonviolence and the reduction to a social system were disputed.",
+      "reading": "The objection was that Ambedkar’s own programme was being represented as the Buddha’s teaching. The website title recalls that critical distinction.",
+      "limit": "This exact wording is accessed through Keer, not an inspected original journal facsimile. The reviewer’s claim about hatred remains an accusation.",
+      "refs": [
+        [
+          "JIV",
+          "The Maha Bodhi 67(12), December 1959, pp. 352–353"
+        ],
+        [
+          "OUP",
+          "Editors’ introduction p. xiv"
+        ]
+      ],
+      "context": [
+        {
+          "source": "KEER",
+          "locator": "Printed pp. 521–522; underlying Maha Bodhi 67(12), December 1959, pp. 352–353",
+          "heading": "A doctrinal criticism becomes an accusation about motive",
+          "paragraphs": [
+            "Keer reports objections concerning karma, nonviolence and the portrayal of Buddhism as a social system, then reproduces the reviewer’s claim about hatred and proposed retitling.",
+            "The doctrinal objections can be checked against passages; a motive accusation requires additional evidence. Publication in a religious journal establishes contemporary opposition, not the truth of every allegation or a collective ruling by the journal’s sponsoring organization."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "O04",
+      "topic": "opposition",
+      "title": "Reservations existed before the 1956 conversion",
+      "grade": "Qualified opposition",
+      "source": "OBER",
+      "page": "Printed p. 224; bibliography: Sangharakshita 1952",
+      "text": "Ober identifies Sangharakshita’s “A Buddhist Bible?” in Maha Bodhi 60(5–6), pp. 221–223.",
+      "reading": "This establishes an early published reservation about the proposed handbook. It should not be conflated with the later hostile reviews or rejection of the conversion movement.",
+      "limit": "The original 1952 article was not independently inspected. Sangharakshita subsequently supported Ambedkar’s followers.",
+      "refs": [
+        [
+          "SANG",
+          "1986, chapters VI–VIII: later explanation and support"
+        ]
+      ],
+      "context": [
+        {
+          "source": "SANG",
+          "locator": "Chapter VI, “Thinking about Buddhism,” discussion of the handy gospel; printed page not verified in accessible transcription",
+          "heading": "A reservation within a supportive relationship",
+          "paragraphs": [
+            "Sangharakshita accepts the usefulness of accessible compilations but questions the analogy with a divinely inspired, universally authoritative Bible. He also understands narrative and imagination as ways of developing faith.",
+            "His later explanation should not be passed off as the verbatim text of the 1952 article. The evidence supports a reservation about the handbook analogy, within a relationship that also involved support for the movement."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Q01",
+      "topic": "boundaries",
+      "title": "There was Buddhist support as well as opposition",
+      "grade": "Scope correction",
+      "source": "CER",
+      "page": "Printed pp. 528–532 and 545–546 · BAWS 17 III",
+      "text": "Chandramani officiated at the conversion; Valisinha’s reproduced eyewitness account welcomes its participants enthusiastically.",
+      "reading": "These are concrete limits on the proposition that traditional Buddhists unanimously rejected the movement.",
+      "limit": "Welcoming converts does not mean approving every sentence of the book published after Ambedkar’s death.",
+      "refs": [
+        [
+          "OBER",
+          "Printed pp. 223–224: organizational reception"
+        ]
+      ],
+      "context": [
+        {
+          "source": "OBER",
+          "locator": "Printed pp. 223–224, especially p. 224",
+          "heading": "Why one review cannot stand for the whole organization",
+          "paragraphs": [
+            "Ober places Ambedkar within a wider Buddhist revival, notes his contacts with scholars and monks and his acceptance of refuge in the Sangha. He warns against treating the hostile Maha Bodhi review as collective condemnation of conversion.",
+            "He records support from Rahul Sankrityayan and Anand Kausalyayan. Distinguish disagreement with particular teachings from rejection of the new Buddhists’ membership in the religious community."
+          ]
+        },
+        {
+          "source": "RAH",
+          "locator": "Printed pp. 80–81, chapter VIII",
+          "heading": "A contemporary traditional account also recognizes social welfare",
+          "quote": "Buddhism does not consider material welfare as an end in itself: it is only a means to an end—a higher and nobler end.",
+          "paragraphs": [
+            "This comparison concerns religious purpose, not a documented personal response to Ambedkar. Social welfare can be acknowledged while remaining subordinate to a spiritual goal."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Q02",
+      "topic": "boundaries",
+      "title": "Missing references, reconstructed sources and fraud are different",
+      "grade": "Methodological distinction",
+      "source": "EDIT",
+      "page": "Printed pp. 89–93; article pp. 85–101",
+      "text": "Khiamniungan traces references added in the 1961 Hindi translation and later editions, noting limitations in those efforts.",
+      "reading": "Finding a source does not establish faithful use; failure to supply a reference does not alone establish invention. Each alleged alteration needs a passage-level comparison.",
+      "limit": "The existence of a scholarly edition does not validate every historical or doctrinal claim.",
+      "refs": [
+        [
+          "OUP",
+          "Editors’ preface and introduction"
+        ]
+      ],
+      "context": [
+        {
+          "source": "EDIT",
+          "locator": "Printed pp. 89–92, especially the reference example on p. 92",
+          "heading": "What the editions research actually finds",
+          "paragraphs": [
+            "Khiamniungan disputes the simple inference from omitted references to concealed fabrication, considering intended readership and handbook format. But he also finds references added by Kausalyayan incomplete, inconsistent or mistaken.",
+            "One compassionate-care passage is annotated as deriving from a Pāli commentary although the passage derives from Beal’s translation of the Chinese Dhammapada. An annotation is a research tool, not automatic confirmation of faithful source use. Source identification, accurate quotation and justified interpretation remain separate checks."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Q03",
+      "topic": "boundaries",
+      "title": "Ancient Buddhist literature itself needs scrutiny on caste",
+      "grade": "Scholarly complication",
+      "source": "SILK",
+      "page": "Printed pp. 150–151 and 173–175; article pp. 128–187",
+      "text": "Silk documents discriminatory representations of caṇḍālas alongside egalitarian rhetoric.",
+      "reading": "A uniformly egalitarian portrayal of historical Buddhism is too simple. The gap between spiritual ideals, literary hierarchy and social practice deserves examination.",
+      "limit": "The texts do not prove one uniform attitude among all Buddhists or the ancestry of all excluded communities.",
+      "refs": [],
+      "context": [
+        {
+          "source": "SILK",
+          "locator": "Printed pp. 150–151 and 173–175; article pp. 128–187",
+          "heading": "Ideal, rhetoric and representation are not interchangeable",
+          "paragraphs": [
+            "Silk’s study examines attitudes towards caṇḍālas across Buddhist textual material, finding discriminatory representation alongside resources for criticizing caste.",
+            "A history that takes egalitarian argument as a complete description of social conduct misses the difference between an ideal and a represented hierarchy. The evidence complicates an entirely egalitarian portrait without establishing that every Buddhist community behaved alike."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Q04",
+      "topic": "boundaries",
+      "title": "His own historical claim was provisional",
+      "grade": "Limit on accusation",
+      "source": "U",
+      "page": "Printed p. 245 · Preface",
+      "text": "The Preface presents a workable hypothesis and declines finality.",
+      "reading": "“Inadequately demonstrated historical reconstruction” is warranted. “Knowingly fabricated history” requires evidence of conscious deception beyond error, speculation or political usefulness.",
+      "limit": "A provisional label does not excuse weak inference; it establishes what kind of claim the author said he was making.",
+      "refs": [],
+      "context": [
+        {
+          "source": "U",
+          "locator": "Preface, printed pp. 243–245",
+          "heading": "The proposed method is reconstructive",
+          "paragraphs": [
+            "The Preface defends imagination and inference where direct links are missing, while presenting the outcome as provisional.",
+            "A fair assessment can reject weak links without equating all reconstruction with dishonesty. The relevant questions are whether the hypothesis fits the evidence, whether alternatives fit better and which new observations could distinguish them."
+          ]
+        }
+      ]
+    }
+  ]
+}
